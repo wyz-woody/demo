@@ -1,4 +1,4 @@
-package com.example.demo.controller;
+package com.wyz.example.controller;
 
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;

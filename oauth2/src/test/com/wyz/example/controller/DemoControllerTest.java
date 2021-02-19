@@ -1,4 +1,4 @@
-package com.example.demo.controller;
+package com.wyz.example.controller;
 
 import com.google.common.collect.Lists;
 import org.junit.jupiter.api.Test;
